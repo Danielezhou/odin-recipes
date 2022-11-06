@@ -1,0 +1,53 @@
+* {
+    border: 2px solid red;
+    border-top-left-radius: 80%;
+    border-top-style:groove;
+    border-right-style: dashed;
+    box-sizing:border-box;
+    width: auto;
+    height: auto;
+    padding: 100px;
+
+  }
+  
+.title {
+    background-color: 	rgb(249,209,188);
+    color: rgb(229,144,165);
+    font-weight: 700;
+    font font-family: Old english, Russian, Beaufort;
+    font-size: 50px;
+    text-align: center;
+
+}
+
+.list{
+    color: rgb(117,99,139);
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.lista {
+    color: rgb(229,144,165);
+    text-align: center;
+    font-size: 26px;
+
+}
+#index{
+    color: rgb(229,144,165);
+    text-align: center;
+}
+
+p, .list.ordered{
+    color: rgb(80,117,146);
+    font-size:medium;
+    font-style: italic;
+}
+
+div {
+    text-align:center;
+}
+
+
+
+
